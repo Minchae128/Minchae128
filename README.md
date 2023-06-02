@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20Minchae%20👋&descAlignY=51&descAlign=62)
 ## 🐣 주니어 백엔드 개발자 신민채 🐣
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minchae128&show_icons=true&theme=default)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minchae128&layout=compact)](https://github.com/Minchae128/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minchae128&rank_icon=github) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minchae128&layout=compact)](https://github.com/Minchae128/github-readme-stats)
 <!--
 **Minchae128/Minchae128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
