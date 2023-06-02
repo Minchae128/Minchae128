@@ -3,7 +3,7 @@
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3> 
-	<p>💡 Userd as the main</p>
+	<p>💡 <b>Userd as the main</b></p>
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -19,7 +19,7 @@
 </div>
 <br>
 <div align=center>
-	<p>📖 Used at least once</p>
+	<p>📖 <b>Used at least once</b></p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -64,7 +64,7 @@
 </div>
 <br>
   <div align=center>
-	<p>🎨 SNS & Portfolio</p>
+	  <p>🎨 <b>SNS & Portfolio</b></p>
 </div>
 <div align=center>
 	<a href="http://www.eumyurato.site/home">
@@ -78,7 +78,7 @@
 	</a>
 	<br>
 </div>
-<br>
+
 <!--
 **Minchae128/Minchae128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
