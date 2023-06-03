@@ -1,27 +1,27 @@
-# 🐣 주니어 백엔드 개발자 신민채
-
-
-<div align=center>
-	<h3>📚 Tech Stack 📚</h3> 
-	<p>💡 <b>Userd as the main</b></p>
-</div>
+# 🐣 Hello :) I'm Minchae	
+<br>
 <div align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	  <img src="https://c.tenor.com/Qu46-3ANACUAAAAC/judy-hopps-driving.gif">
+  <br/>
+  <br/>
+  <p>모든걸 자유자재로 만드는 그날까지🚀</p>
+  <p>😄백엔드 개발자를 꿈꾸고 있습니다!!😄</p>
+  <br/>
+<h2>📚 Tech Stack 📚</h3> 
+<div>
+<h3>💡 <b>Userd as the main</b></h3>
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
 	<br>
-<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-
-
+	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
-<br>
-<div align=center>
-	<p>📖 <b>Used at least once</b></p>
-</div>
-<div align=center>
+<br/>
+<div>
+<h3>📖 <b>Used at least once</b></h3>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
@@ -43,42 +43,44 @@
 	<img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white">
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-</div>
-<br>
-<div align=center>
-<table>
-
-<td>  
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minchae128&rank_icon=github)
-  
-</td>
-  
-<td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minchae128&layout=compact)](https://github.com/Minchae128/github-readme-stats)
-  
-</td>
-  
-<table>
-</div>
-<br>
-  <div align=center>
-	  <p>🎨 <b>SNS & Portfolio</b></p>
-</div>
-<div align=center>
+</div>	
+<br/>
+<div>
+<h3>🎨 <b>SNS & Portfolio</b></h3>
 	<a href="http://www.eumyurato.site/home">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+	<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="mailto:minchae.shin1@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
-	<br>
 </div>
-
+<br/>
+<div>
+<table>
+    <thead>
+      <tr>
+        <th>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Minchae128&show_icons=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Minchae's&nbsp;github&nbsp;👀" />
+          </a>
+        </th>
+        <th>
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minchae128&langs_count=6&layout=compact&hide_border=true&theme=graywhite&custom_title=My&nbsp;Language&nbsp;⌨️" />
+          </a>
+        </th>
+      </tr>
+    </thead>
+  </table>
+</div>
+<br>
+</div>	
+	
+	
+	
 <!--
 **Minchae128/Minchae128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
