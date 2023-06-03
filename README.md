@@ -7,7 +7,7 @@
   <p>모든걸 자유자재로 만드는 그날까지🚀</p>
   <p>😄백엔드 개발자를 꿈꾸고 있습니다!!😄</p>
   <br/>
-<h2>📚 Tech Stack 📚</h3> 
+<h2>📚 Tech Stack 📚</h2> 
 <div>
 <h3>💡 <b>Userd as the main</b></h3>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -45,18 +45,6 @@
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 </div>	
 <br/>
-<div>
-<h3>🎨 <b>SNS & Portfolio</b></h3>
-	<a href="http://www.eumyurato.site/home">
-	<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
-	<a href="mailto:minchae.shin1@gmail.com">
-	<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<a href="">
-	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
-</div>
 <br/>
 <div>
 <table>
@@ -76,7 +64,6 @@
     </thead>
   </table>
 </div>
-<br>
 </div>	
 	
 	
