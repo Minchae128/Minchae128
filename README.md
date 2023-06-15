@@ -1,7 +1,7 @@
 # 🐣 Hello :) I'm Minchae	
 <br>
 <div align="center">
-	  <img src="https://c.tenor.com/Qu46-3ANACUAAAAC/judy-hopps-driving.gif">
+	<img src="https://github.com/Minchae128/Minchae128/assets/122027566/b2afb71d-9bfd-4a9a-8954-4c466c5be53e">
   <br/>
   <br/>
   <p>모든걸 자유자재로 만드는 그날까지🚀</p>
