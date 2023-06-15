@@ -2,7 +2,7 @@
 <br>
 <div align="center">
 	  <img src="https://c.tenor.com/Qu46-3ANACUAAAAC/judy-hopps-driving.gif">
-	  <img scr = "https://i.pinimg.com/originals/97/51/ba/9751ba186c9ba05ae3e6cb1d0b431953.gif">
+	<img src="[https://c.tenor.com/Qu46-3ANACUAAAAC/judy-hopps-driving.gif](https://i.pinimg.com/originals/97/51/ba/9751ba186c9ba05ae3e6cb1d0b431953.gif)">
   <br/>
   <br/>
   <p>모든걸 자유자재로 만드는 그날까지🚀</p>
